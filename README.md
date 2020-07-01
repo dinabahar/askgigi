@@ -116,3 +116,4 @@ I recommend using the Logistic Regression model for the production of Ask Gigi b
     a. Is there mention of the key words at all? Adjust model accordingly.
     b. Are users satisfied with the recommendation?
 5. Explore other subreddits and mediums to recommend to users, scale Ask Gigi.
+6. Try Gaussian Naive Bayes (with TF-IDF) or Multinomial Naive Bayes (with TF-IDF or CountVectorizer)
